@@ -15,6 +15,15 @@ This project is an **interactive AI tutor** built using **Streamlit, Google Gemi
 - **LangChain** - Enhances AI interaction and processing
 - **Python (dotenv, requests)** - API handling and environment management
 
+## How to Use
+- **1. Select learning Level** - Choose Beginner, Intermediate, Advanced from the sidebar
+- **2. Ask a Question** - Type any data Scinece - related question in the input box
+- **3. Get AI-powered Explanation** - The AI provides a structued, easy-to-understand answer
+- **4. Refine Your learning** - Ask folow-up questions to dive deeper.
+- **5. Download chat history** - Save your conversation for future reference
+
+https://github.com/user-attachments/assets/a4e9dd44-1f25-4d60-aea1-ac85547d792f
+
 ## Setup Instructions
 **1. Clone the Repository**
 ```
@@ -34,9 +43,4 @@ GOOGLE_API_KEY = your_google_api_key_here
 streamlit run main.py
 ```
 
-## How to Use
-- **1. Select learning Level** - Choose Beginner, Intermediate, Advanced from the sidebar
-- **2. Ask a Question** - Type any data Scinece - related question in the input box
-- **3. Get AI-powered Explanation** - The AI provides a structued, easy-to-understand answer
-- **4. Refine Your learning** - Ask folow-up questions to dive deeper.
-- **5. Download chat history** - Save your conversation for future reference
+
